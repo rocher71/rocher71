@@ -6,20 +6,13 @@
 
 ## :snail: Languages
 
-#### Front-End
 ![JAVASCRIPT](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
 ![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=flat-square&logo=AngularJS&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white)
-
-#### Back-End
 ![JAVA](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white)
 ![MicrosoftSQL](https://img.shields.io/badge/Microsoft%0ASQL%0AServer-CC2927?style=flat-square&logo=MicrosoftSQLServer&logoColor=white)
-
-
-#### Etc
 ![C++](https://img.shields.io/badge/C%2B%2B-007396?style=flat-square&logo=C%2B%2Ba&logoColor=white)
 
-<br><br>
+
 
 ## :bug: Stats
 [![Solved.ac
