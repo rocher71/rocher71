@@ -12,7 +12,7 @@
 ![MicrosoftSQL](https://img.shields.io/badge/Microsoft%0ASQL%0AServer-CC2927?style=flat-square&logo=MicrosoftSQLServer&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-007396?style=flat-square&logo=C%2B%2Ba&logoColor=white)
 
-
+<br>
 
 ## :bug: Stats
 [![Solved.ac
