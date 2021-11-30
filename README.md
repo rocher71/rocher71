@@ -4,7 +4,10 @@
 <!-- hits -->
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frocher71&count_bg=%23FA8072&title_bg=%23FFA384&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
-Hi! I am an undergraduate student in <a href="https://cse.inha.ac.kr/cse/index.do">Inha Univ Cse.</a>
+Hi!<br>
+I am an undergraduate student in <a href="https://cse.inha.ac.kr/cse/index.do">Inha Univ Cse.</a> <br>
+Currently working <a href="https://www.wipscorp.com/main.wips">@WIPS</a> as an intern. <br>
+The page I am working on right now is <a href="https://www.build-data.co.kr/index">Build BI</a>. <br>
 
 
 ## :snail: Languages
