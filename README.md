@@ -5,8 +5,8 @@
 .
 
 I am an undergraduate student in <a href="https://cse.inha.ac.kr/cse/index.do">Inha Univ Cse.</a> <br>
-Currently working <a href="https://www.wipscorp.com/main.wips">@WIPS</a> as an intern. <br>
-The page I am working on right now is <a href="https://www.build-data.co.kr/index">Build BI</a>. <br>
+<!-- Currently working <a href="https://www.wipscorp.com/main.wips">@WIPS</a> as an intern. <br>
+The page I am working on right now is <a href="https://www.build-data.co.kr/index">Build BI</a>. <br> -->
 
 
 ## :snail: Languages
