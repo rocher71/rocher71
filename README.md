@@ -19,14 +19,14 @@ The page I am working on right now is <a href="https://www.build-data.co.kr/inde
 
 <br>
 
-<!-- ## :bug: Stats -->
+## :bug: Stats
 <!-- [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=qja086351)](https://solved.ac/qja086351)
 
  -->
 <!-- github stats -->
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rocher71&count_private=true&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rocher71&layout=compact&langs_count=5&theme=dark&hide=c%23)](https://github.com/anuraghazra/github-readme-stats)
-<br> -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rocher71&count_private=true&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rocher71&layout=compact&langs_count=5&theme=dark&hide=c%23)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 
 <!--
 **rocher71/rocher71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
