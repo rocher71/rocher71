@@ -32,6 +32,7 @@
 
 - Wips (주)윕스 정보화전략팀 개발부서 Frontend 인턴
 - 10th MakeUs CMC Web Part
+- 21st YAPP Web Part
 - Team Leader & Developer : 인하대학교 하이테크관 소개 3D 게임 - 놀러와요 인하텍!
 - Developer : 힐링을 위한 마을 키우기 게임 - The Village
 - Developer : 지역 공동구매 어플 - 여기붙어
