@@ -3,8 +3,8 @@
 ## 🐥 Profile
 
 🇰🇷 Inha University Dept. of Computer Science & Engineering (2019~) <br/>
-🇺🇸 Taylor University, Upland Indiana (2023.01 - 2023.05) <br/>
-⚒ WIPS (2021.08 ~ 2021.12)
+🇺🇸 Taylor University, Upland Indiana (2023 JAN - 2023 MAY) <br/>
+🇺🇸 ⚒️ XL8, San Jose, CA - Frontend Engineer Intern (2023 JUL - 2023 DEC) 
 <br><br>
 ## :snail: Languages
 
@@ -32,6 +32,7 @@
 
 ## 🌱 Antecedents
 
+- [XL8, Silicon Valley Startup](https://www.xl8.ai/) Frontend 인턴 
 - Wips (주)윕스 정보화전략팀 개발부서 Frontend 인턴
 - 10th MakeUs CMC Web Part
 - 21st YAPP Web Part
@@ -60,10 +61,11 @@
 <br>
 <br>
 
-## :bug: Stats
+
 
 <!-- github stats -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rocher71&count_private=true&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rocher71&layout=compact&langs_count=5&theme=dark&hide=c%23)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ## :bug: Stats [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rocher71&count_private=true&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rocher71&layout=compact&langs_count=5&theme=dark&hide=c%23)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <br>
+ --->
