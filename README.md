@@ -2,7 +2,7 @@
 
 ## 🐥 Profile
 
-🇰🇷 Inha University Dept. of Computer Science & Engineering (2019~) <br/>
+🇰🇷 University Dept. of Computer Science & Engineering (2019~) <br/>
 🇺🇸 Taylor University, Upland Indiana (2023 JAN - 2023 MAY) <br/>
 🇺🇸 ⚒️ XL8, San Jose, CA - Frontend Engineer Intern (2023 JUL - 2023 DEC) 
 <br><br>
