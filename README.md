@@ -6,6 +6,8 @@
 🇺🇸 Taylor University, Upland Indiana (2023 JAN - 2023 MAY) <br/>
 🇺🇸 ⚒️ XL8, San Jose, CA - Frontend Engineer Intern (2023 JUL - 2023 DEC) 
 <br><br>
+
+<!--
 ## :snail: Languages
 
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
@@ -16,6 +18,7 @@
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
 <br>
 <br>
+
 
 ## 🌱 Projects
 
